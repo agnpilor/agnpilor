@@ -5,7 +5,7 @@
 
 - 👧Pronouns: She/her
 - 💻I plan to become a frontend developer in the future!
-- ✨I enjoy creating websites and UI designs with aesthetically pleasing color palettes
+- ✨I enjoy creating websites with aesthetically pleasing color palettes
 - 🎮In my free time I can be found playing a video games, wathing movies, or taking a nap
 - 📧agnpilor@gmail.com
 
